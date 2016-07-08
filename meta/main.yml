@@ -1,0 +1,17 @@
+---
+
+galaxy_info:
+  author: Ramon Bartl
+  description: Ansible role to setup PostgreSQL on a RIDING BYTES Server
+  company: RIDING BYTES UG (haftungsbeschränkt)
+  license: GPLv3
+  min_ansible_version: 2.0
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+  categories:
+    - security
+
+dependencies:
+  - role: ANXS.postgresql
