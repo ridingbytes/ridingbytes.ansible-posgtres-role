@@ -36,7 +36,7 @@ Install [PostgreSQL][9] version 9.5 per default.
         comment: '"local" is for Unix domain socket connections only'
 
 Only allow local connections to the Unix-domain socket uainf `peer` authentication.
-Please see [PostgreSQL Host Based Authentication Documentation][11] for available settings.
+Please see [PostgreSQL Host Based Authentication Documentation][10] for available settings.
 
 
 [1]:  http://ridingbytes.com "RIDING BYTES"
